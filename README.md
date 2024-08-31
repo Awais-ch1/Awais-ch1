@@ -1,8 +1,6 @@
-        Hi , I'm Muhammad Awais
-<!--
-**Awais-ch1/Awais-ch1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Muhammad Awais
 
-i'm love in technology and Nature 
+ # I'm love technology and Nature 
 
 - 🌱 I’m currently learning React.js and Node.js  ...
 - 👯 My_Profile & Portfolio is here
@@ -10,4 +8,4 @@ i'm love in technology and Nature
 - 💬 Ask me about ...
 - 📫 How to reach me: https://awais-portfilio.netlify.app/
 .
--->
+
